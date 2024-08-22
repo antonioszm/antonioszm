@@ -1,4 +1,4 @@
-<h1 align="center">Hello World!!1!</h1>
+<h1 align="center"> 👋🏻 Hello World!!1! </h1>
 
 ###
 
@@ -11,9 +11,9 @@
 </div>
 
 ###
+<!--
 
 <br clear="both">
-<!--
 <img src="https://raw.githubusercontent.com/antonioszm/antonioszm/output/snake.svg" alt="Snake animation" />
 -->
 ###
